@@ -90,12 +90,8 @@ I'm always eager to connect with fellow developers and contribute to impactful p
   <a href="https://github.com/shivamrz" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600" />
-</p>
-
 ---
 
 ## 🙏 Thanks for Visiting!
 
-Thank you for stopping by! I’m always looking forward to connecting with new people and sharing ideas. Let's make a difference, one project at a time. 😄
+Let's make a difference, one project at a time. 😄
