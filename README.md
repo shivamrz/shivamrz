@@ -3,7 +3,13 @@
 
 ## Passionate Full Stack Developer focused on efficient backend and DSA skills 🚀
 
-### 👨‍💻 Currently
+<p > 
+   <a href="https://twitter.com/derek_twts" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/derek_twts?logo=twitter&style=for-the-badge" alt="derek_twts" /></a>
+   <img align="center" src="https://komarev.com/ghpvc/?username=shivamrz&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrz" /> 
+  <h3 align="left">👨‍💻 Currently</h3>
+
+</p>
+
 <table>
   <tr>
     <td>
@@ -95,3 +101,4 @@ I'm always eager to connect with fellow developers and contribute to impactful p
 ## 🙏 Thanks for Visiting!
 
 Let's make a difference, one project at a time. 😄
+
